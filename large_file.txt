@@ -1,0 +1,27 @@
+CLASS =3
+COMPUTER
+CH=4 = USING WORD 2016
+
+1.Answer the following question :
+a)What are the main components of word window?
+Ans: The main components of word window are—
+Title bar, Quick access toolbar, Ribbon, Tabs, Scroll bars, Document area, Status bar and Zoom slider.
+b)what is the shortcut key to open a new document and to save a document?
+Ans: The shortcut key to open a new document is – Ctrl+N and The shortcut key to save a document is-
+Ctrl+S.
+c) What is Status bar?
+Ans: Status bar shows the details of the current document such as page number, number of pages,lines,words etc.
+2.Fill in the blanks:
+a)Word is a word processing __________ software(application)
+b)Title bar is present at the _______ of the word 2016 window.(top)
+3.Match the following:
+i)Ribbon                      a)It is used to move up and 
+                                        down in the document.  (iv)
+ii)zoom slider              b)It shows the details of the
+                                        current document.   (iii)
+iii)status bar                  c)It is used to enlarge and 
+                                       reduce the size of window
+                                      quickly and easily. (ii)
+iv)vertical scroll bar     d)It is made up of tabs and 
+                                         groups.  (i)
+
